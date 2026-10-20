@@ -50,11 +50,11 @@
 # for i in range(10):
 #     print(name)
 
-listOfPartyMembers= ["beqa", "gio", "nika", "levani","anamaria", "lasha", "natali", "barbare"]
+# listOfPartyMembers= ["beqa", "gio", "nika", "levani","anamaria", "lasha", "natali", "barbare"]
 
-for i in listOfPartyMembers:
-    if i == "lasha" :
-        print("u are vip")
-    else: 
-        print("u are not vip")
+# for i in listOfPartyMembers:
+#     if i == "lasha" :
+#         print("u are vip")
+#     else: 
+#         print("u are not vip")
 
