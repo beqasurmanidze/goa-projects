@@ -17,16 +17,3 @@
 # print("beqa")
 
 
-# numbers = [4, 7, 2, 9]
-
-# numbers[1] = numbers[0] + numbers[2]
-# numbers.append(numbers[1] * 2)
-
-
-# word = "python"
-# word = word.upper()
-# #  word = "PYTHON"
-
-# print(word[2:5])
-# print(len(word) + numbers[0])
-

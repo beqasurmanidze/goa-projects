@@ -1,12 +1,6 @@
-age = int(input("Enter your age: "))
+number = 10
 
-print(age >= 13 and age <= 18)
-# 2
-number = int(input("Enter a number: "))
-
-print(number < 10)
-
-# 3
-name = input("Enter your name: ")
-
-print(name == "Beka")
+print(int(number))
+print(float(number))
+print(str(number))
+print(bool(number))
